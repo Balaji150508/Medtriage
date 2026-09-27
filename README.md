@@ -1,7 +1,3 @@
-# Medtriage
-Transparent, hallucination-free emergency hospital triage powered by MeTTa symbolic logic.
-
-
 # MedTriage 
 
 > **A Glass Box AI Decision-Support Engine for Emergency Hospital Triage**  
